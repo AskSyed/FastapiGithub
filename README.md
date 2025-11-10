@@ -1,0 +1,2 @@
+# FastapiGithub
+Simple FastApi deployment
